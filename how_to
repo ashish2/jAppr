@@ -1,0 +1,8 @@
+How To: 
+
+Running Posters:
+	$: python manage.py shell
+	$: from posters.posters.hasjob import *
+	$: poster_run()
+
+
