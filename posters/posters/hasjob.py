@@ -43,15 +43,17 @@ def selen(driver):
 	urls_done = [
 		"https://hasjob.co/view/2kd5p",
 		"https://hasjob.co/view/65ccx",
-	]
-	urls_left = [ 
 		"https://hasjob.co/view/uoemf",
 		"https://hasjob.co/view/0awzv",
+	]
+	urls_left = [ 
 	]
 
 	# url = "https://hasjob.co/bcjukebox.in/86rdh"
 	#url = "https://hasjob.co/tangramme.com/ejt9v"
-	url = "https://hasjob.co/gmail.com/u0hxe"
+	#url = "https://hasjob.co/gmail.com/u0hxe"
+	url = "https://hasjob.co/canvs.in/vx50x"
+	url = "https://hasjob.co/upgrad.com/jyfjj"
 	
 	driver.get(url)
 	time.sleep(5)
