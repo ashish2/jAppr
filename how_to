@@ -1,6 +1,8 @@
 How To: 
 
 Running Posters:
+	# inside pysite folder 
+	# /opt/lampp/htdocs/ash3_opt_www/www2/python/venv/venv1_7/pysite (FTM)
 	$: python manage.py shell
 	$: from posters.posters.hasjob import *
 	$: poster_run()
